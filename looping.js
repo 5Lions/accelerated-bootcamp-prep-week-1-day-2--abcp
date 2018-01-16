@@ -1,4 +1,4 @@
-var names = ["Hansel", "Greta", "Wicked Witch"]
+var names = ["Hansel", "Gretl", "Wicked Witch"]
 
 console.log(names[0])
 console.log(names[1])
